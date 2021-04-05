@@ -1,0 +1,16 @@
+Read 10 records in 0.041000 milliseconds
+Sorted 10 records in 0.001000 milliseconds
+Size of recursion for 10 records is 100 bytes
+Read 100 records in 0.121000 milliseconds
+Sorted 100 records in 0.014000 milliseconds
+Size of recursion for 100 records is 820 bytes
+Read 1000 records in 1.052000 milliseconds
+Sorted 1000 records in 1.187000 milliseconds
+Size of recursion for 1000 records is 8020 bytes
+Read 10000 records in 8.853000 milliseconds
+Sorted 10000 records in 105.934000 milliseconds
+Size of recursion for 10000 records is 80020 bytes
+Read 100000 records in 72.936000 milliseconds
+Sorted 100000 records in 11113.864000 milliseconds
+Size of recursion for 100000 records is 800020 bytes
+Read 100000 records in 65.150000 milliseconds

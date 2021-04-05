@@ -1,0 +1,9 @@
+Time Taken to sort 100 elements with customSort cutoff 44: 0.028000 milliseconds.
+Time Taken to sort 1000 elements with customSort cutoff 63: 1.783000 milliseconds.
+Time Taken to sort 10000 elements with customSort cutoff 15: 117.777000 milliseconds.
+Time Taken to sort 100000 elements with customSort cutoff 34: 14259.957000 milliseconds.
+Time Taken to sort 10 elements with customSort cutoff 8: 0.001000 milliseconds.
+Time Taken to sort 10 elements with customSort cutoff 9: 0.001000 milliseconds.
+Time Taken to sort 500000 elements with customSort cutoff 29: 362296.330000 milliseconds.
+Time Taken to sort 100 elements with customSort cutoff 1: 0.011000 milliseconds.
+Time Taken to sort 50000 elements with customSort cutoff 42: 3889.207000 milliseconds.
